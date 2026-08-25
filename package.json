@@ -1,0 +1,24 @@
+{
+  "name": "casas-en-disputa-materia-despliegue",
+  "version": "1.0.0",
+  "description": "Juego donde se aplican los conocimientos de la materia: Diseños y Arquitecturas de despliegues I",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GastonMagarinos/casas-en-disputa-materia-despliegue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/GastonMagarinos/casas-en-disputa-materia-despliegue/issues"
+  },
+  "homepage": "https://github.com/GastonMagarinos/casas-en-disputa-materia-despliegue#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
