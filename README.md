@@ -71,6 +71,7 @@ Para las columnas utilizamos la misma logica pero el orden es diferente.
 ---
 
 Grafico de las ubicaciones:
+
 ![](assets/CapturaTablero.png)
 
 Para la comunicacion entre el tablero y el generador utilizamos import/export,
@@ -117,3 +118,13 @@ Aca por el momento importe la verificacion del tablero y la vista del tablero
 
 y cree una funcion llamada funcionamiento Juego que tiene un condicional que si la verificacion del tablero es true entonces se muestra el tablero y si es false imprime la leyenda que el tablero no esta en regla.
 ![](assets/Captura9.png)
+
+## COMMITS
+
+## Bibliografia
+
+- Donde aprendi js y saque varias cosas para usar(functions,arrays,bucles,objects,condicionales):[(https://www.aprendejavascript.dev/](https://www.aprendejavascript.dev/)).
+- Factory Functions: [https://medium.com/@robinviktorsson/understanding-differences-between-classes-factory-functions-object-literals-and-closures-in-eb0eae785627](https://medium.com/@robinviktorsson/understanding-differences-between-classes-factory-functions-object-literals-and-closures-in-eb0eae785627)
+- Arrays Methods: [https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- Generador:[https://emanueleferonato.com/2026/01/08/understanding-how-to-use-mulberry32-to-achieve-deterministic-randomness-in-javascript/](https://emanueleferonato.com/2026/01/08/understanding-how-to-use-mulberry32-to-achieve-deterministic-randomness-in-javascript/)
+- [https://www.4rknova.com/blog/2026/03/01/mulberry32-rng](https://www.4rknova.com/blog/2026/03/01/mulberry32-rng)
